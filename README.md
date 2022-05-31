@@ -12,8 +12,6 @@ aws_secret_access_key=DJu+6ylVufyKbMnUiRblThkjp+sjEb8Niv7pxSVu
 aws_session_token=FwoGZXIvYXdzEO7//////////wEaDKeeeCo4wHFpT3f4ACLRAcskkTQPUgcJfbEVMhmjLBxeGlwSku+rkeR/fmYlBEI3oSTj1FG9bg3MF1H/dF10DhESa03/MN5qduxO/6h0Bx1ELiJs28Fk26Ycbu5uoskBLxJ61hfz241V+BdnFDgLdEcmCoATm3Y6u8DmZK2u+UHybbv39xOmodmGMnPDLvsCpl5qOw8SNkJky2VnewaaveTF7302it2gNnIvgXfJ2a88EgUgxRwKTiaJUMesRmfqJpmMOctVTHjtMP8eJF7nhNtFXFxXTSG7lltBfzQzFF0HKOXfxJQGMi2PiqvgN4PaKmJb9aqQkKLvH6jmmGCMFxYEdOJCqOX+IE+FDOw6OXa0Y/x/7HE=
 
 
-provider "aws" { region = "us-west-2" access_key = "my-access-key" secret_key = "my-secret-key" }
-
 
 4. USING TERRAFORM, CREATING A FILE WITH EXTENSION tf
 code main.tf
